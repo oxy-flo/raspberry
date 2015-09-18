@@ -1,7 +1,7 @@
 
 
 bonjour a tous , comme le dit le titre nous allons parler de BB-8 de star wars 7,
-et plus précisement voir comment en fabriquer un pour a paut pres 40 euro
+et plus précisement voir comment en fabriquer un pour a paut pres 40 euro (selon vos récupération)
 
 
 materiel : (que j'ai sélectionné en fonction de matériel que je possède , apres a vous de vous adapter )
