@@ -5,12 +5,19 @@ et plus précisement voir comment en fabriquer un pour a paut pres 40 euro (selo
 
 
 materiel : (que j'ai sélectionné en fonction de matériel que je possède , apres a vous de vous adapter )
+
 raspberry pi
+
 4 roues
+
 relais 5v
+
 une boule a hamster
+
 une batterie
+
 2 moteur (identique de préférence)
+
 2 aiment
 
 (bientot en image)
